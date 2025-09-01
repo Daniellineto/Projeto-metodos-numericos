@@ -14,7 +14,7 @@ Para executar o projeto, faça download do `csv` disponível neste [link](https:
 1. Clone o repositório localmente:
 
 ```bash
-git clone git@github.com:igorkso/projeto_metodos_numericos.git
+git clone git@github.com:Daniellineto/Projeto-metodos-numericos.git
 ```
 
 2. Crie um ambiente virtual e instale as dependências:
